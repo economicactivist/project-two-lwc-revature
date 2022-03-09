@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "project-grid-mountain",
+            "versionName": "ver 1.1",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "name": "ProjTwoDevHub",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "project-grid-mountain": "0Ho8c000000wk2sCAA",
+        "project-grid-mountain@1.0.0-1": "04t8c000001MUU2AAO",
+        "project-grid-mountain@1.1.0-1": "04t8c000001MbHkAAK"
+    }
+}
